@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mohamed Rostom</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A Software Engineer based in Cairo, Egypt</h3>
 
 - 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [http://mohamed-rostom.s3-website.eu-central-1.amazonaws.com/](http://mohamed-rostom.s3-website.eu-central-1.amazonaws.com/)
 
-- 💬 Ask me about **Nodejs, ReactJs**
+- 💬 Ask me about **Nodejs, React**
 
 - 📫 How to reach me **mohamedrostom62@gmail.com**
 
